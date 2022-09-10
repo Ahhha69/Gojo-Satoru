@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['+201114227203']
+global.premium = ['+201114227203']
+global.ownernomer = '+201114227203'
+global.ownername = '◜『⚚𝑽𝑰𝑨𝑳𝑼 ¦🎶¦ 𝑶𝑩𝑰𝑻𝑶⚚』◞'
+global.botname = '𝑽𝑰𝑨𝑳𝑼 ¦🎶¦𝜝𝑶𝑻'
+global.footer = '𝑽𝑰𝑨𝑳𝑼 ¦🎶¦𝜝𝑶𝑻'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = '𝑽𝑰𝑨𝑳𝑼 ¦🎶¦𝜝𝑶𝑻'
+global.author = '𝑽𝑰𝑨𝑳𝑼 ¦🎶¦𝜝𝑶𝑻'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم✓',
+    admin: 'يالعضو الامر ذا للأدمنز',
+    botAdmin: 'خليني بوت يا حمار',
+    owner: 'الأمر ذا لأوبيتو عمك بس!',
+    group: 'إستخدم الأمر ذا بالقروبات بس!!',
+    private: 'استخدم الامر بالخاص يا حلو 🌹!',
+    bot: 'الامر ذا لاوبيتو عمك بس',
+    wait: 'اصبر...',
+    error: 'خطأ! ',
+    endLimit: 'عدد اوامرك خلصوا ارجع بعد 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
